@@ -1,0 +1,83 @@
+body {
+    background-image: url("img/1.png");
+   
+   
+}
+
+#bio-image {
+    width: 350px;
+    height: 350px;
+}
+
+#main-bio {
+    padding-right: 120px;
+    
+       
+}
+
+#left-card {
+    padding-right: 350px;
+    border-top:50px;
+  
+}
+
+#middle-card {
+    padding-left: 50px;
+}
+
+#right-card {
+    padding-left: 80px;
+}
+
+#left-title {
+    text-align: center;
+}
+
+#middle-title {
+    text-align: center;
+}
+
+#right-title {
+    text-align: center;
+}
+
+#ll-btn {
+    padding-left: 50px;
+    text-align: center;
+    
+}
+
+#lr-btn {
+    padding-left: 50px;
+    text-align: center;
+}
+
+#ml-btn {
+    padding-left: 50px;
+    text-align: center;
+    
+}
+
+#mr-btn {
+    padding-left: 50px;
+    text-align: center;
+}
+
+#rl-btn {
+    padding-left: 50px;
+    text-align: center;
+    
+}
+
+#rr-btn {
+    padding-left: 50px;
+    text-align: center;
+}
+
+
+#page-title {
+    padding-bottom: 100px;
+    padding-top: 15px;
+    font-family: impact;
+}
+

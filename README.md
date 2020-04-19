@@ -1,17 +1,29 @@
-# k3vindi3s3l.homework2.io
+# Title 
 
-# I created a website with my bio.
+Bio/Portfolio
 
-# I used only html and bootstrap.
+## Project Descritpion
 
-# The website consists of a home page with my image ( no image uploaded ) alonf with a small description about myself.
+This is my bio/portfolio still in early stages. I made few changes to the older version by adding a background image, changed the font family of the texts on all pages, added a project and two other assigments that I completed the past few months, and lastly I added links for their github repos as well as links for their deployed version
+<br>
+For a better visual understanding please take a look at the following screenshots.
 
-# Next there is the Portfolio page which is where my future pojects will be listed. Right now you wll only be able to see placeholders.
 
-# Lastly there's the contact page where anyone interested wil be able to emal me by entering their name , email and text in the content box.
+### Screenshots
+![](img/a.png)
+![](img/b.png)
+![](img/c.png)
+![](img/d.png)
 
-# Al three pages have two navbars. One on the top with the links to the pages mentioned above and one on the bottom with lnks to me email and github account.
 
-# The pages contain contaiers, rows and columns and the lay out is responsive. 
+### How to access the quiz
+URL: https://k3vindi3s3l.github.io/k3vindi3s3l.homework2.io/
+<br>
+URL: https://github.com/K3vinDi3s3l/k3vindi3s3l.homework2.io
 
-# When the page is minimized the contet stacks up on top of eachother for easier view o a smartphone while the navbar turns into drops down when you click on it. 
+### Built With
+
+* HTLM (https://developer.mozilla.org/en-US/docs/Glossary/HTML#Concept_and_syntax)
+* CSS (https://www.w3schools.com/css/)
+* BootStrap (https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
